@@ -1,3 +1,5 @@
+-- Use the database  erp_crm_schema created with Python in Jupyter notebook. Use MySQL Workbench to run the following SQL statements.
+ 
 -- Total revenue
 SELECT SUM(revenue) FROM final_dataset;
 
