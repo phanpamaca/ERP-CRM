@@ -25,6 +25,13 @@ GROUP BY product_name
 ORDER BY total DESC
 LIMIT 5;
 
+-- Top 5 cities
+SELECT city, SUM(revenue) AS total
+FROM final_dataset
+GROUP BY city
+ORDER BY total DESC
+LIMIT 5; 
+
 -- Customer Lifetime Value
 SELECT name, SUM(revenue) AS lifetime_value
 FROM final_dataset
