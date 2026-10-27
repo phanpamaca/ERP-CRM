@@ -18,10 +18,18 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 <img width="388" height="230" alt="image" src="https://github.com/user-attachments/assets/de3b437b-dd73-47e9-a96d-cadcbfc73be9" />
 
 ## 📈 Insights
-Following sample insights can be derived depending on dataset, not necessarily from the sample dataset here.
-- Top % customers generate majority of revenue
-- Certain segmentation(e.g.cities) dominate sales distribution
-- Product concentration reveals key revenue drivers
+1. Customer Behavior
+   - Identify most valuable customers
+   - Identify repeat customers and customer retention
+   - Geographic customer patterns
+     
+3. Product Performance
+   - Identify best-selling products
+   - Identify products that need further investigations (e.g. low demand, etc.)
+     
+5. Revenue Trend
+   - Identify monthly revenue growth or decline
+   
 
 ## 📊 Dashboard Preview
 [ERP_CRM Analytics - PowerBI.pdf](https://github.com/user-attachments/files/34029178/ERP_CRM.Analytics.-.PowerBI.pdf)
