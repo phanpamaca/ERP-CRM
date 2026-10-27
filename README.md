@@ -15,10 +15,11 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 
 ## 📁 Project Structure
 erp-crm/
-├── pbix/
-├── notebook/
+|
+├── jupyter_notebook/
+├── power_bi
+├── screenshots
 ├── sql/
-├── final_dataset.csv
 └── README.md
 
 ## 📈 Insights
