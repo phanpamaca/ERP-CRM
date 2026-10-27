@@ -14,6 +14,9 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 - KPI dashboard (Revenue, Orders, AOV)
 
 ## 📁 Project Structure
+
+<img width="390" height="240" alt="image" src="https://github.com/user-attachments/assets/a49cb1f3-99b7-486c-8257-e1a92f0f6d80" />
+
 erp-crm/
 |
 |___  jupyter_notebook/
