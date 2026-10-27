@@ -15,7 +15,7 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 
 ## 📁 Project Structure
 
-<img width="390" height="240" alt="image" src="https://github.com/user-attachments/assets/a49cb1f3-99b7-486c-8257-e1a92f0f6d80" />
+<img width="392" height="228" alt="image" src="https://github.com/user-attachments/assets/9e76c8f6-d083-46e7-91e3-b288e6f53e46" />
 
 ## 📈 Insights
 - Top % customers generate majority of revenue
