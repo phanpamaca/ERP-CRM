@@ -16,11 +16,12 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 ## 📁 Project Structure
 erp-crm/
 |
-├── jupyter_notebook/
-├── power_bi
-├── screenshots
-├── sql/
-└── README.md
+|___  jupyter_notebook/
+|___  power_bi/
+|___  screenshots/
+|___  sql/
+|___  README.md
+
 
 ## 📈 Insights
 - Top % customers generate majority of revenue
