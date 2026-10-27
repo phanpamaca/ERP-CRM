@@ -18,8 +18,9 @@ This project simulates a real-world ERP and CRM system, analyzing customer behav
 <img width="388" height="230" alt="image" src="https://github.com/user-attachments/assets/de3b437b-dd73-47e9-a96d-cadcbfc73be9" />
 
 ## 📈 Insights
+Following sample insights can be derived depending on dataset, not necessarily from the sample dataset here.
 - Top % customers generate majority of revenue
-- Certain cities dominate sales distribution
+- Certain segmentation(e.g.cities) dominate sales distribution
 - Product concentration reveals key revenue drivers
 
 ## 📊 Dashboard Preview
